@@ -32,11 +32,11 @@ var socialIconSettings = {
             "url": "https://twitter.com/barisanasional",
             "text": "Twitter"
         },
-        "instagram": {
+        "googleplus": {
             "url": "https://www.instagram.com/barisanasional",
             "text": "Google+"
         },
-        "youtube": {
+        "email": {
             "url": "https://www.youtube.com",
             "text": "Email"
         },
