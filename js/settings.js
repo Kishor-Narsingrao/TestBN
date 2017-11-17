@@ -79,7 +79,7 @@ var languageSettings = {
     "defaultLanguage": "en",
     "languages": {
         "en": "English (EN)",
-        "my": "Malay (MY)",
+        "my": "Malay (BM)",
        /** "es": "Espa&ntilde;ol (ES)" */
     }
 };
