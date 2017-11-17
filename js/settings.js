@@ -32,16 +32,16 @@ var socialIconSettings = {
             "url": "https://twitter.com/barisanasional",
             "text": "Twitter"
         },
-        "googleplus": {
-            "url": "https://plus.google.com",
+        "instagram": {
+            "url": "https://www.instagram.com/barisanasional",
             "text": "Google+"
         },
-        "email": {
-            "url": "mailto:",
+        "youtube": {
+            "url": "https://www.youtube.com",
             "text": "Email"
         },
         "link": {
-            "url": "https://pb.com",
+            "url": "https://www.barisanasional.org.my",
             "text": "Website"
         }
     }
