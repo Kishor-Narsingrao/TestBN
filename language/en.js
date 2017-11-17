@@ -79,10 +79,7 @@ var Translations = {
      * "url" to go to when the promo is clicked
      * "desktopImage" the relative path to the promo image used on desktop breakpoints. This should be portrait.
      * "mobileImage" the relative path to the promo image used on mobile breakpoints. This should be landscape.
-     */
-    
-    /** Temporary hold for this project
-    
+     */    
     "PromoSettings": {
         "promo1": {
             "trackingName": "promo1",
@@ -98,9 +95,7 @@ var Translations = {
             "desktopImage": "./images/promo_portrait.png",
             "mobileImage": "./images/promo_landscape.png"
         }
-    },
-    */
-    
+    },    
     
     /**
      * Chapter settings used to build the timeline and StateMap, which maps video states to friendly names.
