@@ -37,7 +37,7 @@ var socialIconSettings = {
             "text": "Google+"
         },
         "email": {
-            "url": "abshay.koul1@pb.com",
+            "url": "mailto:software.support@pb.com?Subject=EngageOne%23Video%20Support%20Request",
             "text": "Email"
         },
         "link": {
