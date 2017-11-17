@@ -108,10 +108,10 @@ var Translations = {
      */
     "ChapterSettings": [
         {
-            "label": "Introduction",
+            "label": "Welcome",
             "states": [
                 {
-                    "cardId": "START",
+                    "cardId": "b4a86715",
                     "width": 20
                 }
             ]
