@@ -112,20 +112,43 @@ var Translations = {
             "states": [
                 {
                     "cardId": "b4a86715",
-                    "width": 20
+                    "width": 10
                 }
             ]
         },
         {
-            "label": "Your Account",
+            "label": "Take Details",
             "states": [
                 {
-                    "cardId": "77a834f0",
-                    "width": 20
-                },
+                    "cardId": "5a78a1b5",
+                    "width": 10
+                }
+            ]
+        },
+        {
+            "label": "Selection",
+            "states": [
                 {
-                    "cardId": "c23a68c9",
-                    "width": 20
+                    "cardId": "54fea00f",
+                    "width": 10
+                }
+            ]
+        },
+        {
+            "label": "Achievements",
+            "states": [
+                {
+                    "cardId": "87c8489a",
+                    "width": 10
+                }
+            ]
+        },
+        {
+            "label": "Survey",
+            "states": [
+                {
+                    "cardId": "fbcb7aad",
+                    "width": 10
                 }
             ]
         },
@@ -134,7 +157,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "7b0123a5",
-                    "width": 40
+                    "width": 10
                 }
             ]
         }
