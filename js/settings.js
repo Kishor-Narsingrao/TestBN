@@ -37,11 +37,11 @@ var socialIconSettings = {
             "text": "Google+"
         },
         "email": {
-            "url": "mailto:software.support@pb.com?Subject=EngageOne%23Video%20Support%20Request",
+            "url": "mailto:software.support@pb.com?Subject=EngageOne%23Video%20Admin%20Portal%20Support%20Request",
             "text": "Email"
         },
         "link": {
-            "url": "www.barisanasional.org.my",
+            "url": "http://www.barisannasional.org.my",
             "text": "Website"
         }
     }
