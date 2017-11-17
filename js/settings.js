@@ -80,6 +80,6 @@ var languageSettings = {
     "languages": {
         "en": "English (EN)",
         "my": "Malay (MY)",
-        "es": "Espa&ntilde;ol (ES)"
+       /** "es": "Espa&ntilde;ol (ES)" */
     }
 };
