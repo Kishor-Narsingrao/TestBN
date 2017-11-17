@@ -37,11 +37,11 @@ var socialIconSettings = {
             "text": "Google+"
         },
         "email": {
-            "url": "https://www.youtube.com",
+            "url": "abshay.koul1@pb.com",
             "text": "Email"
         },
         "link": {
-            "url": "https://www.barisanasional.org.my",
+            "url": "http://www.barisanasional.org.my",
             "text": "Website"
         }
     }
