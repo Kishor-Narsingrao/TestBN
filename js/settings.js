@@ -41,7 +41,7 @@ var socialIconSettings = {
             "text": "Email"
         },
         "link": {
-            "url": "http://www.barisanasional.org.my",
+            "url": "www.barisanasional.org.my",
             "text": "Website"
         }
     }
