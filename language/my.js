@@ -111,7 +111,7 @@ var Translations = {
             "label": "Selamat datang",
             "states": [
                 {
-                    "cardId": "START",
+                    "cardId": "b4a86715",
                     "width": 20
                 }
             ]
@@ -120,7 +120,7 @@ var Translations = {
             "label": "Butiran anda",
             "states": [
                 {
-                    "cardId": "Details",
+                    "cardId": "5a78a1b5",
                     "width": 20
                 },
             ]
@@ -129,7 +129,7 @@ var Translations = {
             "label": "Pemilihan",
             "states": [
                 {
-                    "cardId": "Selection",
+                    "cardId": "54fea00f",
                     "width": 20
                 },
             ]
@@ -138,7 +138,7 @@ var Translations = {
             "label": "Pencapaian",
             "states": [
                 {
-                    "cardId": "Achievements",
+                    "cardId": "87c8489a",
                     "width": 20
                 },
             ]
@@ -147,7 +147,7 @@ var Translations = {
             "label": "Ukur",
             "states": [
                 {
-                    "cardId": "Survey",
+                    "cardId": "fbcb7aad",
                     "width": 20
                 },
             ]
