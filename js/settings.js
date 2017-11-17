@@ -25,11 +25,11 @@ var socialIconSettings = {
     "position": "right",
     "icons": {
         "facebook": {
-            "url": "https://facebook.com",
+            "url": "https://facebook.com/barisanasional",
             "text": "Facebook"
         },
         "twitter": {
-            "url": "https://twitter.com",
+            "url": "https://twitter.com/barisanasional",
             "text": "Twitter"
         },
         "googleplus": {
