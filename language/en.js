@@ -126,7 +126,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Your Consituency",
+            "label": "Your Constituency",
             "states": [
                 {
                     "cardId": "54fea00f",
