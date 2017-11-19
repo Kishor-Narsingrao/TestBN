@@ -126,7 +126,7 @@ var Translations = {
             ]
         },
 		{
-            "label": "Ketabahan anda",
+            "label": "Kawasan pilihan anda",
             "states": [
                 {
                     "cardId": "54fea00f",
