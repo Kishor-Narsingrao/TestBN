@@ -293,11 +293,11 @@
 }
 
 .promo--side .promo__image {
-    background-size: 200% 100%;
+    background-size: 100% 100%;
 }
 
-.promo--side .promo__link:hover .promo__image,
-.promo--side .promo__link:active .promo__image,
+/* .promo--side .promo__link:hover .promo__image, */
+/* .promo--side .promo__link:active .promo__image, */
 .promo--side .focusable.promo__link:focus .promo__image {
     background-position: 100% 0;
 }
