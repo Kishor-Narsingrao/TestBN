@@ -144,7 +144,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Ukur",
+            "label": "Maklumbalas & Penutupan",
             "states": [
                 {
                     "cardId": "fbcb7aad",
