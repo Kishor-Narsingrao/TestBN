@@ -144,7 +144,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Survey",
+            "label": "Feedback & Closing",
             "states": [
                 {
                     "cardId": "fbcb7aad",
